@@ -21,7 +21,6 @@
   <img width="96" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
   <img width="96" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="41" alt="postgresql logo"  />
 </div>
 
 ###
